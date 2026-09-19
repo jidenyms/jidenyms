@@ -46,11 +46,11 @@ A responsive client website showcasing painting, interior design, and architectu
 **Built with:** HTML, CSS, JavaScript, EmailJS  
 **Live:** [oladamidesign.vercel.app](https://oladamidesign.vercel.app)
 
-### [Responsive Sign-Up Page](https://github.com/jidenyms/login-page)
+### [Nova — Creative Animated Login](https://github.com/jidenyms/animated-auth-ui)
 
-A responsive authentication interface created to practise form design and CSS layouts.
+A cinematic authentication experience featuring animated orbital artwork, smooth login and sign-up transitions, validation, theme switching, and responsive design.
 
-**Built with:** HTML and CSS
+**Built with:** HTML, modern CSS, and JavaScript
 
 ## Current focus
 
