@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jidenyms/jidenyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Olajide Balogun 👋
 
-Here are some ideas to get you started:
+### Computer Science Student · Frontend Developer · Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build useful, responsive web experiences with JavaScript, React, and Next.js.
+
+[View my portfolio](https://olajide-balogun.netlify.app)
+
+</div>
+
+## About me
+
+- 💻 Frontend developer focused on JavaScript, React, and Next.js
+- 🛠️ Experienced in building responsive websites and full-stack web applications
+- 🌱 Currently strengthening my programming foundations through C
+- 🤝 Open to internships, junior software-development roles, and meaningful collaborations
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+## Featured projects
+
+### [PocketLedger](https://github.com/jidenyms/PocketLedger)
+
+A full-stack personal finance dashboard for tracking income, expenses, categories, reports, and financial trends.
+
+**Built with:** Next.js, React, TypeScript, Prisma, Recharts, Tailwind CSS
+
+### [Oladami Design](https://github.com/jidenyms/olati-portfolio)
+
+A responsive client website showcasing painting, interior design, and architectural work.
+
+**Built with:** HTML, CSS, JavaScript, EmailJS  
+**Live:** [oladamidesign.vercel.app](https://oladamidesign.vercel.app)
+
+### [Responsive Sign-Up Page](https://github.com/jidenyms/login-page)
+
+A responsive authentication interface created to practise form design and CSS layouts.
+
+**Built with:** HTML and CSS
+
+## Current focus
+
+- Building polished, accessible web interfaces
+- Improving full-stack development skills
+- Writing cleaner, maintainable code
+- Contributing to products that solve real problems
+
+---
+
+<div align="center">
+
+**Let's build something useful together.**
+
+[View my portfolio](https://olajide-balogun.netlify.app)
+
+</div>
